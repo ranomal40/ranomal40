@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React.JS<br>🎯 Goals: Software Engineer<br>How about this for a playful twist:<br>⚡ Fun fact: I chose JavaScript as my programming language because I have a love-hate relationship with it – mostly hate, but hey, it keeps things interesting! 😄</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React.JS<br>🎯 Goals: Software Engineer<br>⚡ Fun fact: I chose JavaScript as my programming language because I have a love-hate relationship with it – mostly hate, but hey, it keeps things interesting! 😄</p>
 
 ###
 
